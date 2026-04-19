@@ -1,0 +1,10 @@
+streamlit
+google-genai
+PyPDF2
+pandas
+pillow
+pip install streamlit
+pip install google-generativeai
+pip install PyPDF2
+pip install pandas
+pip install pillow
